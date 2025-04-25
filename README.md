@@ -1,4 +1,4 @@
-# -KOS-SPIRAL-ADMIN-
+#KYS :O
 The Streets Admin I gs | Made By ByteCollector
 
 # CREDITS:
