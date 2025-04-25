@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WafflesCordDevelopmentTeam/-KOS-SPIRAL-ADMIN-/refs/heads/main/Spiral_Admin_KOS_FULL.lua"))()
